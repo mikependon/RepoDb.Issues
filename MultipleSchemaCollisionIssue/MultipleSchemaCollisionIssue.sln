@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleSchemaCollisionIssue", "MultipleSchemaCollisionIssue\MultipleSchemaCollisionIssue.csproj", "{0F8E97BC-CED4-4099-9015-EDC4CF288B15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F8E97BC-CED4-4099-9015-EDC4CF288B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8E97BC-CED4-4099-9015-EDC4CF288B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8E97BC-CED4-4099-9015-EDC4CF288B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8E97BC-CED4-4099-9015-EDC4CF288B15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C33D1458-3EB2-4222-BD71-60A07B98033B}
+	EndGlobalSection
+EndGlobal
