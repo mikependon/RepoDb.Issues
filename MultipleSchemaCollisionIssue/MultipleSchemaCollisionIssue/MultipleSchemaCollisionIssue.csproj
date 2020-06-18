@@ -9,4 +9,13 @@
     <PackageReference Include="RepoDb.SqlServer" Version="1.0.10" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Database\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\GitHub\RepoDb\RepoDb.Core\RepoDb\RepoDb.csproj" />
+    <ProjectReference Include="..\..\GitHub\RepoDb\RepoDb.SqlServer\RepoDb.SqlServer\RepoDb.SqlServer.csproj" />
+  </ItemGroup>
+
 </Project>
